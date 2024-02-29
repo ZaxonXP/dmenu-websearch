@@ -37,18 +37,3 @@ Arch:Packages libreoffice still
 ```
 
 **TIP**: You're free to define the **prefix menu**. My example is just for ease to explaining.
-
-## 💃 Demo
-
-![demo-01](.image/gambar-01.gif)
-
-![demo-02](.image/gambar-02.gif)
-
-## 🗒️ TODO
-
-
-Copyright © 2021 Rizqi Nur Assyaufi.
-
-Free use of this software is granted under the terms of the MIT License.
-
-See [LICENSE](LICENSE) for details.
