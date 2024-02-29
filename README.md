@@ -5,6 +5,7 @@ Shorthand for web search based on each own query with dmenu.
 ## 📦 Dependencies
 
 0. [dmenu](https://tools.suckless.org/dmenu), is a dynamic menu for X
+1. [jq](https://github.com/stedolan/jq), is a lightweight and flexible command-line JSON processor
 
 ## 🌎 Web Search Queries
 
