@@ -1,7 +1,0 @@
-DuckDuckGo:Search,https://duckduckgo.com/?q=
-GitHub:Search,https://github.com/search?q=
-Google:Search,https://duckduckgo.com/?q=!g+
-Google:Search:Image,https://duckduckgo.com/?q=!gi+
-Google:Translate_to_PL,https://translate.google.com/?sl=auto&tl=pl&text=
-Wikipedia:EN,https://en.wikipedia.org/w/index.php?search=
-Wikipedia:PL,https://pl.wikipedia.org/w/index.php?search=
