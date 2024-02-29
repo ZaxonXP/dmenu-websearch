@@ -10,7 +10,7 @@ OBJ_MENU=$(echo ${OPTIONS[@]} | tr " " "\n" | cut -d, -f1 | $MENU -i -p " Web
 [ -z "$OBJ_MENU" ] && exit 0  # exit when ESC is pressed
 
 OBJ_SELECTED=${OBJ_MENU%% *}
-OBJ_KEYWORDS=${OBJ_MENU#* }
+OBJ_KEYWORDS=${OBJ_MENU/$OBJ_SELECTED}
 
 [ -z "$OBJ_KEYWORDS" ] && exit 0 # exit when there is no keywords
 OBJ_KEYWORDS=$(echo $OBJ_KEYWORDS | jq -s -R -r @uri | tr " " "+")
