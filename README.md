@@ -8,7 +8,7 @@ Shorthand for web search based on each own query with dmenu.
 
 ## 🌎 Web Search Queries
 
-`.urlquery`
+`urlquery`
 
 ```
 DuckDuckGo:Search,https://duckduckgo.com/?q=
